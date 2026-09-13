@@ -27,7 +27,9 @@
         "app_url": "https://store.xarr.cn/app/1qno6kld120dlbgl0lb2vkdtd092r6te",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1qno6kld120dlbgl0lb2vkdtd092r6te.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789298166
+        "update_time": 1789298166,
+        "download_filename": "modern_hy.zip",
+        "md5": "9292f3784a03c15148113f4b4c0e908c"
       },
       {
         "uuid": "1qno6kld120dl7dqpiyh5hhaa0l3a89k",
@@ -51,7 +53,9 @@
         "app_url": "https://store.xarr.cn/app/1qno6kld120dl7dqpiyh5hhaa0l3a89k",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1qno6kld120dl7dqpiyh5hhaa0l3a89k.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789257751
+        "update_time": 1789257751,
+        "download_filename": "douyinpay_hg.zip",
+        "md5": "01ebba1508517a29979e2aa7b99b6894"
       },
       {
         "uuid": "mu72lt0jbw0dl36ezi2s6jacf0z9tonl",
@@ -75,7 +79,9 @@
         "app_url": "https://store.xarr.cn/app/mu72lt0jbw0dl36ezi2s6jacf0z9tonl",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/mu72lt0jbw0dl36ezi2s6jacf0z9tonl.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789244555
+        "update_time": 1789244555,
+        "download_filename": "hg_index_3.zip",
+        "md5": "e98a7dcd2d6e532a4df275e5a0d2eea0"
       },
       {
         "uuid": "3y7b390dio0dkywll3s53vm79080fq4w",
@@ -99,7 +105,9 @@
         "app_url": "https://store.xarr.cn/app/3y7b390dio0dkywll3s53vm79080fq4w",
         "source_site": "https://store.xarr.cn",
         "update_time": 1789296779,
-        "download_url": null
+        "download_url": null,
+        "download_filename": null,
+        "md5": null
       },
       {
         "uuid": "10q1t10c3f0dkqfp949tdvfba0xptpxt",
@@ -123,7 +131,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfp949tdvfba0xptpxt",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfp949tdvfba0xptpxt.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276019
+        "update_time": 1789276019,
+        "download_filename": "pay13.zip",
+        "md5": "44354ab2f76019215ba435c24474f84b"
       },
       {
         "uuid": "10q1t10c3f0dkqfp4p7tuydb80ep6yz4",
@@ -147,7 +157,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfp4p7tuydb80ep6yz4",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfp4p7tuydb80ep6yz4.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276021
+        "update_time": 1789276021,
+        "download_filename": "pay12.zip",
+        "md5": "67a1ef02b55de12f87546ec572a38105"
       },
       {
         "uuid": "10q1t10c3f0dkqfp06v88y7b60pbx1tq",
@@ -171,7 +183,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfp06v88y7b60pbx1tq",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfp06v88y7b60pbx1tq.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276021
+        "update_time": 1789276021,
+        "download_filename": "pay11.zip",
+        "md5": "a518ed53fadd3370551416ffd712c5fb"
       },
       {
         "uuid": "10q1t10c3f0dkqfovrvyjwsb402v2r2b",
@@ -195,7 +209,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfovrvyjwsb402v2r2b",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfovrvyjwsb402v2r2b.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276022
+        "update_time": 1789276022,
+        "download_filename": "pay10.zip",
+        "md5": "3f36ee97775f1b17ac32af344dc79b56"
       },
       {
         "uuid": "10q1t10c3f0dkqfopx6q46rb208sdv00",
@@ -219,7 +235,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfopx6q46rb208sdv00",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfopx6q46rb208sdv00.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276023
+        "update_time": 1789276023,
+        "download_filename": "pay9.zip",
+        "md5": "99686f6eabcb2629850c5cbde36cbe6e"
       },
       {
         "uuid": "10q1t10c3f0dkqfol8d5wrtb00j02fep",
@@ -243,7 +261,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfol8d5wrtb00j02fep",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfol8d5wrtb00j02fep.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276024
+        "update_time": 1789276024,
+        "download_filename": "pay8.zip",
+        "md5": "27309e7ec86317493a36586e1886c262"
       },
       {
         "uuid": "10q1t10c3f0dkqfogxpw1uaay0vqnz0v",
@@ -267,7 +287,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfogxpw1uaay0vqnz0v",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfogxpw1uaay0vqnz0v.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276024
+        "update_time": 1789276024,
+        "download_filename": "pay7.zip",
+        "md5": "8261146007e50f122034f06dcec84ea4"
       },
       {
         "uuid": "10q1t10c3f0dkqfo9dmbz2qaw0fhzitg",
@@ -291,7 +313,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfo9dmbz2qaw0fhzitg",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfo9dmbz2qaw0fhzitg.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789277924
+        "update_time": 1789277924,
+        "download_filename": "pay6.zip",
+        "md5": "12ddf3e18a872553cc4cf2d2cb99d371"
       },
       {
         "uuid": "10q1t10c3f0dkqfo1z65t4lau0m2ocih",
@@ -315,7 +339,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfo1z65t4lau0m2ocih",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfo1z65t4lau0m2ocih.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789277926
+        "update_time": 1789277926,
+        "download_filename": "pay5.zip",
+        "md5": "91441bf0cd2aea2372468e39caef5b32"
       },
       {
         "uuid": "10q1t10c3f0dkqfng54oacuas0sye426",
@@ -339,7 +365,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfng54oacuas0sye426",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfng54oacuas0sye426.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789277923
+        "update_time": 1789277923,
+        "download_filename": "pay4.zip",
+        "md5": "e5d46f1cdf23bbffa1c85ab16392e61e"
       },
       {
         "uuid": "10q1t10c3f0dkqfmr163pscaq0p8ah6c",
@@ -363,7 +391,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfmr163pscaq0p8ah6c",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfmr163pscaq0p8ah6c.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276028
+        "update_time": 1789276028,
+        "download_filename": "pay3.zip",
+        "md5": "1c50dbf8da36a9ab30736e4ee9a54ca2"
       },
       {
         "uuid": "10q1t10c3f0dkqfm31ufaeoao062pzta",
@@ -387,7 +417,9 @@
         "app_url": "https://store.xarr.cn/app/10q1t10c3f0dkqfm31ufaeoao062pzta",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/10q1t10c3f0dkqfm31ufaeoao062pzta.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789276029
+        "update_time": 1789276029,
+        "download_filename": "pay2.zip",
+        "md5": "fd9f3d352f66e8f183b2f95f5b3f92fa"
       },
       {
         "uuid": "135kfm7e9f0dkntohz5xr451g5imwrvu",
@@ -411,7 +443,9 @@
         "app_url": "https://store.xarr.cn/app/135kfm7e9f0dkntohz5xr451g5imwrvu",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/135kfm7e9f0dkntohz5xr451g5imwrvu.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214513
+        "update_time": 1789214513,
+        "download_filename": "jdsyt.zip",
+        "md5": "a681e8dacaeaaf917b38eb6da2782bfa"
       },
       {
         "uuid": "135kfm7e9f0dkeiv8c0vo5d6d0n7z5y6",
@@ -435,7 +469,9 @@
         "app_url": "https://store.xarr.cn/app/135kfm7e9f0dkeiv8c0vo5d6d0n7z5y6",
         "source_site": "https://store.xarr.cn",
         "update_time": 1789244599,
-        "download_url": null
+        "download_url": null,
+        "download_filename": null,
+        "md5": null
       },
       {
         "uuid": "1uxj0oi4nh0dk1u8ae623xy100kc36nx",
@@ -459,7 +495,9 @@
         "app_url": "https://store.xarr.cn/app/1uxj0oi4nh0dk1u8ae623xy100kc36nx",
         "source_site": "https://store.xarr.cn",
         "update_time": 1789261726,
-        "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1uxj0oi4nh0dk1u8ae623xy100kc36nx.zip"
+        "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1uxj0oi4nh0dk1u8ae623xy100kc36nx.zip",
+        "download_filename": "lsky.zip",
+        "md5": "f919eb0c8d56efe8058ecc5ddf6b9555"
       },
       {
         "uuid": "55tepg0bx20di1fyl5vin1h14017xji1",
@@ -483,7 +521,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1fyl5vin1h14017xji1",
         "source_site": "https://store.xarr.cn",
         "update_time": 1789214639,
-        "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1fyl5vin1h14017xji1.zip"
+        "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1fyl5vin1h14017xji1.zip",
+        "download_filename": "shouqianba.zip",
+        "md5": "11cac2b6f40dfeda59e4995f2cc8ce0f"
       },
       {
         "uuid": "55tepg0bx20di1fpq65ija2110i23kw7",
@@ -507,7 +547,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1fpq65ija2110i23kw7",
         "source_site": "https://store.xarr.cn",
         "update_time": 1779459479,
-        "download_url": null
+        "download_url": null,
+        "download_filename": null,
+        "md5": null
       },
       {
         "uuid": "55tepg0bx20di1fp8v4j5l8z00y4ecwp",
@@ -531,7 +573,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1fp8v4j5l8z00y4ecwp",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1fp8v4j5l8z00y4ecwp.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789258532
+        "update_time": 1789258532,
+        "download_filename": "bank_union.zip",
+        "md5": "2a79717598b77d454f98af9a738d3e63"
       },
       {
         "uuid": "55tepg0bx20di1flsa48k5av00xgc4rq",
@@ -555,7 +599,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1flsa48k5av00xgc4rq",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1flsa48k5av00xgc4rq.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214625
+        "update_time": 1789214625,
+        "download_filename": "huifu.zip",
+        "md5": "3a7d079bd86d2355fed40d82382f58d3"
       },
       {
         "uuid": "55tepg0bx20di1fl255ab2pt00bkbfnd",
@@ -579,7 +625,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1fl255ab2pt00bkbfnd",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1fl255ab2pt00bkbfnd.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214620
+        "update_time": 1789214620,
+        "download_filename": "vmq.zip",
+        "md5": "66109b576bc35d169aecd1ff2bd02d42"
       },
       {
         "uuid": "55tepg0bx20di1fjbgdwsvtr00jraz30",
@@ -603,7 +651,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg0bx20di1fjbgdwsvtr00jraz30",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg0bx20di1fjbgdwsvtr00jraz30.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214615
+        "update_time": 1789214615,
+        "download_filename": "xunhu.zip",
+        "md5": "c51b3cd4fee9fedf39cdc4d975f15dd5"
       },
       {
         "uuid": "55tepg048p0dhvighz87lc7f00ct8rxa",
@@ -627,7 +677,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhvighz87lc7f00ct8rxa",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhvighz87lc7f00ct8rxa.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789257777
+        "update_time": 1789257777,
+        "download_filename": "wxpay_native_v3.zip",
+        "md5": "3b2f0163c3bd9759a32c00f53348ac4d"
       },
       {
         "uuid": "55tepg048p0dhvig4fe69szd00rgbufq",
@@ -651,7 +703,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhvig4fe69szd00rgbufq",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhvig4fe69szd00rgbufq.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789257768
+        "update_time": 1789257768,
+        "download_filename": "wxpay_jsapi.zip",
+        "md5": "9ec4dbedd5b7c0513c4d984d100571de"
       },
       {
         "uuid": "55tepg048p0dhvifp6c5m0ab00ue5ty9",
@@ -675,7 +729,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhvifp6c5m0ab00ue5ty9",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhvifp6c5m0ab00ue5ty9.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789257765
+        "update_time": 1789257765,
+        "download_filename": "epayn.zip",
+        "md5": "3fcff61ff7dc874457b7228c844cbfa6"
       },
       {
         "uuid": "55tepg048p0dhviewxwyva09003epzdk",
@@ -699,7 +755,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhviewxwyva09003epzdk",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhviewxwyva09003epzdk.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214595
+        "update_time": 1789214595,
+        "download_filename": "epay.zip",
+        "md5": "ebee60576662360d5beaf869c4f1c028"
       },
       {
         "uuid": "55tepg048p0dhvialw3xvve500v3dfes",
@@ -723,7 +781,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhvialw3xvve500v3dfes",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhvialw3xvve500v3dfes.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214589
+        "update_time": 1789214589,
+        "download_filename": "alipay_prepay.zip",
+        "md5": "669b8ea1d5a431111a73bdf425e4232b"
       },
       {
         "uuid": "55tepg048p0dhviagejllc7300zmkgao",
@@ -747,7 +807,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhviagejllc7300zmkgao",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhviagejllc7300zmkgao.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214584
+        "update_time": 1789214584,
+        "download_filename": "alipay_pc.zip",
+        "md5": "bb8f6d87bdca386f1d9083a842bef547"
       },
       {
         "uuid": "55tepg048p0dhvi9zsgxy81100gmq1gu",
@@ -771,7 +833,9 @@
         "app_url": "https://store.xarr.cn/app/55tepg048p0dhvi9zsgxy81100gmq1gu",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/55tepg048p0dhvi9zsgxy81100gmq1gu.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214579
+        "update_time": 1789214579,
+        "download_filename": "alipay_dmf.zip",
+        "md5": "a7feeb3bd319c34a9cb8df9d5366678a"
       },
       {
         "uuid": "1uyutzi1b7sdgvlmpbec4s8100zajvgq",
@@ -795,7 +859,9 @@
         "app_url": "https://store.xarr.cn/app/1uyutzi1b7sdgvlmpbec4s8100zajvgq",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1uyutzi1b7sdgvlmpbec4s8100zajvgq.zip",
         "source_site": "https://store.xarr.cn",
-        "update_time": 1789214533
+        "update_time": 1789214533,
+        "download_filename": "alipay_wap.zip",
+        "md5": "6d8c64838037043e94e46d5ec25ac746"
       },
       {
         "uuid": "7e6d5f044231cc28b486e144f4bb08f2",
@@ -819,7 +885,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/7e6d5f044231cc28b486e144f4bb08f2.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "alipay_bill.zip",
+        "md5": "25522e641fae8ed208e3ea99b1629ab8"
       },
       {
         "uuid": "6b4df7462d965ba066baf95454b4286d",
@@ -843,7 +911,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/6b4df7462d965ba066baf95454b4286d.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "alipay_bill_auto.zip",
+        "md5": "d2b4c827f41855b5b2e37d723e2b5e08"
       },
       {
         "uuid": "1617b0bd9bbdf063466093f1b7c8be1d",
@@ -867,7 +937,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1617b0bd9bbdf063466093f1b7c8be1d.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "jk_alipay.zip",
+        "md5": "593f942e84b88505709b493cf32a83e3"
       },
       {
         "uuid": "ccf9ca12b4cd62a77b00492cef5dd6c9",
@@ -891,7 +963,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/ccf9ca12b4cd62a77b00492cef5dd6c9.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "jk_qqpay.zip",
+        "md5": "53bf2cdde4b91c0ee41bd6ea0298c910"
       },
       {
         "uuid": "5e4c5d2b094aca99571d81834b9aba9e",
@@ -915,7 +989,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/5e4c5d2b094aca99571d81834b9aba9e.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "jk_wechat_app.zip",
+        "md5": "4a427a42c8c728af4ef8fe9493867cb8"
       },
       {
         "uuid": "fb3f6fbdd9204807a9fb45c179a39bc7",
@@ -939,7 +1015,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/fb3f6fbdd9204807a9fb45c179a39bc7.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "jk_wechat_pc.zip",
+        "md5": "a963106e7c665522b99f9b46eae8c0c8"
       },
       {
         "uuid": "cc3bdbd76c637abee0f6c15238eba582",
@@ -963,7 +1041,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/cc3bdbd76c637abee0f6c15238eba582.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "pc_alipay_lz.zip",
+        "md5": "df43da4785276eb7a355c092043fe913"
       },
       {
         "uuid": "99bf7bbd41a234bb558064d4cf63afab",
@@ -987,7 +1067,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/99bf7bbd41a234bb558064d4cf63afab.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "pc_qqpay_lz.zip",
+        "md5": "d0c8159b11de6798648ec343e64ee4a8"
       },
       {
         "uuid": "72581cdde29fdb9e6747d94eea871d6c",
@@ -1011,7 +1093,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/72581cdde29fdb9e6747d94eea871d6c.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "pc_wechat_all_lz.zip",
+        "md5": "e8b8430ea44c15ae775096bd1f08509f"
       },
       {
         "uuid": "1ad26d33d73b12c70e3e7c5f5fd89109",
@@ -1035,7 +1119,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1ad26d33d73b12c70e3e7c5f5fd89109.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "pc_wxpay_lz.zip",
+        "md5": "54a09499ae65b27328ab919431ae39ea"
       },
       {
         "uuid": "c7124f08220d9cb4586bf978a9f6349a",
@@ -1059,7 +1145,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/c7124f08220d9cb4586bf978a9f6349a.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "wechat_dianyuan.zip",
+        "md5": "5cc7a4a399924c3f2761590f805cda06"
       },
       {
         "uuid": "1230715e6ca5d78caeb499036dd4bf21",
@@ -1083,7 +1171,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/1230715e6ca5d78caeb499036dd4bf21.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_alipay_lz.zip",
+        "md5": "7da124be43affa11e2516054c23ba447"
       },
       {
         "uuid": "e56a4d054d5d92691f530bb2dd1d4597",
@@ -1107,7 +1197,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/e56a4d054d5d92691f530bb2dd1d4597.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_alipay_xd.zip",
+        "md5": "09ae6a8d987ea1138fc6619e533260d8"
       },
       {
         "uuid": "93d03ddb986d76ca025c8df2ff7a20be",
@@ -1131,7 +1223,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/93d03ddb986d76ca025c8df2ff7a20be.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_qqpay_lz.zip",
+        "md5": "81b11f61867e37f72e95ad6f5ce53149"
       },
       {
         "uuid": "38dad99d71f20dc8998af27b71557db5",
@@ -1155,7 +1249,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/38dad99d71f20dc8998af27b71557db5.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_qqpay_xd.zip",
+        "md5": "53dab883213395f164a53fade56e424c"
       },
       {
         "uuid": "4618769f62f17d6146a625dffa297017",
@@ -1179,7 +1275,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/4618769f62f17d6146a625dffa297017.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_all_lz.zip",
+        "md5": "69890a85575769e596a8c173c7a8061b"
       },
       {
         "uuid": "5169c7faf19b25f0dd96917b5e3de93d",
@@ -1203,7 +1301,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/5169c7faf19b25f0dd96917b5e3de93d.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_car_hg.zip",
+        "md5": "6e4ada44a4e58a80a17c80004fc972ed"
       },
       {
         "uuid": "5b288481836b4043761a94380a81205f",
@@ -1227,7 +1327,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/5b288481836b4043761a94380a81205f.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_gj_xd.zip",
+        "md5": "6648a51cd25393bba1dda0196a687f26"
       },
       {
         "uuid": "4dbb501388fbe257b025d01499cdc5af",
@@ -1251,7 +1353,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/4dbb501388fbe257b025d01499cdc5af.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_ipad_xd.zip",
+        "md5": "52d695b7e8fa0aea98275b5ed85a9b9a"
       },
       {
         "uuid": "e579aae1a332daabf8474cd3178f0b6a",
@@ -1275,7 +1379,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/e579aae1a332daabf8474cd3178f0b6a.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_watch_xd.zip",
+        "md5": "1d5c6b757f0bc3c70369b8745672db06"
       },
       {
         "uuid": "5e3ad245597dec06b973195ffc52b9e2",
@@ -1299,7 +1405,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/5e3ad245597dec06b973195ffc52b9e2.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_xd.zip",
+        "md5": "4e9c7c21c59733ca07ccbbea61f315be"
       },
       {
         "uuid": "66eb8124305e59205a9f44de093dc988",
@@ -1323,10 +1431,11 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260913/66eb8124305e59205a9f44de093dc988.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789307968
+        "update_time": 1789307968,
+        "download_filename": "yun_wechat_yyb_xd.zip",
+        "md5": "adf5b422cc576c77f44458a332868892"
       }
     ],
     "count": 55
   }
 }
-
