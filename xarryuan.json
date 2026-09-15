@@ -1441,7 +1441,7 @@
         "title": "新微信店员云端-靓仔",
         "type": 1,
         "type_label": "支付插件",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "min_program_version": "1.5.0.8",
         "description": "仅支持微信店员助手云端账单监控",
         "author": "靓仔",
@@ -1457,9 +1457,9 @@
         "app_url": "",
         "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260915/31709bdd49e3449bbfc18c1e0e39d343.zip",
         "source_site": "https://github.com/hzgz/store",
-        "update_time": 1789435849,
+        "update_time": 1789478634,
         "download_filename": "yun_wx_dianyuan_lz.zip",
-        "md5": "3690244feb50a65878196ac27d77f849"
+        "md5": "58dcd8e84ac1826648d57c244ec70466"
       }
     ],
     "count": 56
