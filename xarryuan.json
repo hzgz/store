@@ -1434,8 +1434,34 @@
         "update_time": 1789307968,
         "download_filename": "yun_wechat_yyb_xd.zip",
         "md5": "adf5b422cc576c77f44458a332868892"
+      },
+      {
+        "uuid": "31709bdd49e3449bbfc18c1e0e39d343",
+        "name": "yun_wx_dianyuan_lz",
+        "title": "新微信店员云端-靓仔",
+        "type": 1,
+        "type_label": "支付插件",
+        "version": "1.0.0",
+        "min_program_version": "1.5.0.8",
+        "description": "仅支持微信店员助手云端账单监控",
+        "author": "靓仔",
+        "author_nickname": "靓仔",
+        "homepage": "",
+        "preview_url": "",
+        "preview_img_url": "",
+        "external_support_url": "",
+        "external_repository_url": "",
+        "amount": 0,
+        "pay_status": 0,
+        "download_install_type": 2,
+        "app_url": "",
+        "download_url": "https://raw.githubusercontent.com/hzgz/store/refs/heads/main/releases/20260915/31709bdd49e3449bbfc18c1e0e39d343.zip",
+        "source_site": "https://github.com/hzgz/store",
+        "update_time": 1789435849,
+        "download_filename": "yun_wx_dianyuan_lz.zip",
+        "md5": "3690244feb50a65878196ac27d77f849"
       }
     ],
-    "count": 55
+    "count": 56
   }
 }
